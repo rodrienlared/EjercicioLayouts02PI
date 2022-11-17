@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">EjercicioLayouts02PI</string>
+    <string name="conectar">Conectar</string>
+    <string name="correo">Correo</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu contraseña?</string>
+    <string name="producto">Producto</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="javon_de_mano_x_1">Javon de mano x 1</string>
+    <string name="_2">$2</string>
+    <string name="shampoo_monster_x_1">Shampoo Monster x 1</string>
+    <string name="_10">$10</string>
+    <string name="pastas_duria_x_2">Pastas Duria x 2</string>
+    <string name="_18">$18</string>
+    <string name="deterjente_limpiadin_x_1">Deterjente Limpiadin x 1</string>
+    <string name="_13_4">$13,4</string>
+    <string name="total">Total</string>
+    <string name="_48_4">$48,4</string>
+    <string name="_5">-$5</string>
+    <string name="cup_n">Cupón</string>
+    <string name="costo_env_o">Costo envío</string>
+    <string name="_43_4">$43,4</string>
+    <string name="ejercicio_4">Ejercicio 4</string>
+    <string name="ejercicio_3">Ejercicio 3</string>
+    <string name="ejercicio_2">Ejercicio 2</string>
+    <string name="ejercicio_1">Ejercicio 1</string>
+
+    <string-array name="estado_civiles">
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Viudo</item>
+    </string-array>
+
+    <string-array name="cargos">
+        <item>Ventas</item>
+        <item>Informática</item>
+        <item>Jardinería</item>
+    </string-array>
+</resources>
