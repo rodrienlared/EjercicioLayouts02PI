@@ -2,7 +2,7 @@
 
 ## Introducción
 
-- Grupo: GRUPO 09
+- Grupo: GRUPO 08
     - Integrantes:
         - RODRIGO SÁNCHEZ GÓMEZ
         - DANIEL IZQUIERDO BONILLA
